@@ -4,13 +4,6 @@
 
 Clone repository on your local machine
 
-```shell
-git clone git@github.com:pranit-p/docker-compose-example.git
-cd docker-compose-example
-```
-
-#### Step 2
-
 Build image and run it in background mode
 
 ```shell
@@ -26,6 +19,5 @@ Stop all containers
 docker compose down
 ```
 
-### Reference
 
-1. https://docs.docker.com/compose/
+
